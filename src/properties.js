@@ -28,6 +28,7 @@ export default [
     "columnSpan",
     "columnWidth",
     "columns",
+    "filter",
     "flex",
     "flexBasis",
     "flexDirection",
